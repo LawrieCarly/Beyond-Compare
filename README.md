@@ -1,2 +1,2 @@
-# Beyond-Compare
+# HaveYourSoy
 Veggy alternatives rating site 
